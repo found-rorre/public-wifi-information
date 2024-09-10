@@ -22,4 +22,4 @@
 ![ERD](https://github.com/user-attachments/assets/798686e4-2366-492a-8bc6-e2fc00ed8762)
 
 ## 📌공공 와이파이 구현영상
-![구현영상](https://github.com/user-attachments/assets/6cafd757-5c22-4098-b559-12529b0552a0)(https://www.youtube.com/watch?v=5OyYoR2dBMU&ab_channel=%EA%B3%A0%EB%8C%80%EC%9D%BC)
+[![Jombo2](https://github.com/user-attachments/assets/6cafd757-5c22-4098-b559-12529b0552a0)](https://www.youtube.com/watch?v=5OyYoR2dBMU&ab_channel=%EA%B3%A0%EB%8C%80%EC%9D%BC)
